@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarDatabase</string>
+    <string name ="rating"> Filter CARS BY CC</string>
+
+    <string-array name="ccratings">
+        <item>No Filter</item>
+        <item>1000cc and below</item>
+        <item>1001-1600cc</item>
+        <item>1601-2000cc</item>
+        <item>2001-3000cc</item>
+        <item>3001cc and above</item>
+    </string-array>
+</resources>
